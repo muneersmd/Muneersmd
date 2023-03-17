@@ -1,7 +1,0 @@
-cd --directory name
-git touch file names
-git status
-git add .
-git status
-git commit -m "command name"
-git log
